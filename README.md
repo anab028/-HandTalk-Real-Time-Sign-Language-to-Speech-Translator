@@ -1,0 +1,1 @@
+# -HandTalk-Real-Time-Sign-Language-to-Speech-Translator
